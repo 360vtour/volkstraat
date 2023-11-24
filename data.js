@@ -316,6 +316,12 @@ var APP_DATA = {
           "pitch": 0.057397516415612415,
           "rotation": 0,
           "target": "1-keuken"
+        },
+        {
+          "yaw": -0.5186509820754139,
+          "pitch": 0.11003224415325263,
+          "rotation": 0,
+          "target": "7-terras"
         }
       ],
       "infoHotspots": []
@@ -361,7 +367,7 @@ var APP_DATA = {
   ],
   "name": "Volkstraat",
   "settings": {
-    "mouseViewMode": "qtvr",
+    "mouseViewMode": "drag",
     "autorotateEnabled": false,
     "fullscreenButton": true,
     "viewControlButtons": true
